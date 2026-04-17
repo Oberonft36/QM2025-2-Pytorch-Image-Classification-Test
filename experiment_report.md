@@ -32,7 +32,7 @@ BEST model !!! = 0.8913
 
 #### 标准组loss和acc曲线：
 
-![loss_curve](.\outputs\loss_curve.png)
+![loss_curve](outputs\loss_curve.png)
 
 ![acc_curve](outputs\acc_curve.png)
 
