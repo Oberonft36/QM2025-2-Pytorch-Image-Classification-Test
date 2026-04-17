@@ -2,6 +2,8 @@
 
 ## 标准组实验配置：
 
+图片见outputs文件夹
+
 #### 实验文件：`train.py`
 
 - train size: 60000
