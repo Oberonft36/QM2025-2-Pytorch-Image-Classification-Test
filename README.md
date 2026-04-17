@@ -44,16 +44,6 @@ Sandal, Shirt, Sneaker, Bag, Ankle boot
 │  train_contrast_batch_change.py
 │  train_contrast_lr_change.py
 │
-├─.idea
-│  │  .gitignore
-│  │  lpytorch.iml
-│  │  misc.xml
-│  │  modules.xml
-│  │  workspace.xml
-│  │
-│  └─inspectionProfiles
-│          profiles_settings.xml
-│
 ├─checkpoints
 │      best.pt
 │      best_batch_change.pt
