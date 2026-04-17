@@ -111,8 +111,8 @@ BEST model !!! = 0.8913
 相比之下，batch size 为 64 时，训练集与测试集准确率始终保持接近，且最终测试准确率更高，说明其泛化能力更好。
 
 # 5 张错误分类样本及解释
-#若图片无法打开，请见outputs文件夹
-![error_samples](outputs\error_samples.png)
+
+[![error_samples](https://github.com/Oberonft36/QM2025-2-Pytorch-Image-Classification-Test/blob/main/outputs/error_samples.png?raw=true)
 #若图片无法打开，请见outputs文件夹
 ## 错误样本分析
 
