@@ -112,7 +112,7 @@ BEST model !!! = 0.8913
 
 # 5 张错误分类样本及解释
 
-[![error_samples](https://github.com/Oberonft36/QM2025-2-Pytorch-Image-Classification-Test/blob/main/outputs/error_samples.png?raw=true)
+![error_samples](https://github.com/Oberonft36/QM2025-2-Pytorch-Image-Classification-Test/blob/main/outputs/error_samples.png?raw=true)
 #若图片无法打开，请见outputs文件夹
 ## 错误样本分析
 
