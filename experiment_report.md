@@ -31,12 +31,13 @@ BEST model !!! = 0.8913
 ```
 
 #### 标准组loss和acc曲线：
+#若图片无法打开，请见outputs文件夹
 
 ![loss_curve](outputs\loss_curve.png)
 
 ![acc_curve](outputs\acc_curve.png)
 
-
+#若图片无法打开，请见outputs文件夹
 
 ## 对比实验1：学习率对比实验分析
 
@@ -58,11 +59,13 @@ BEST model !!! = 0.8913
 约为0.84
 
 #### 本实验loss和acc曲线：
+#若图片无法打开，请见outputs文件夹
 
 ![loss_lr_change](outputs\loss_lr_change.png)
 
 ![acc_lr_change](outputs\acc_lr_change.png)
 
+#若图片无法打开，请见outputs文件夹
 #### 实验分析：
 
 本实验对比了两种学习率设置（0.001 与 0.0001）对模型训练效果的影响。
@@ -95,11 +98,11 @@ BEST model !!! = 0.8913
 约为0.8696
 
 #### 本实验loss和acc曲线：
-
+#若图片无法打开，请见outputs文件夹
 ![loss_batch_change](outputs\loss_batch_change.png)
 
 ![acc_batch_change](outputs\acc_batch_change.png)
-
+#若图片无法打开，请见outputs文件夹
 #### 实验分析：
 
 本实验对比了不同 batch size（64 与 128）对模型训练效果的影响。
@@ -109,9 +112,9 @@ BEST model !!! = 0.8913
 相比之下，batch size 为 64 时，训练集与测试集准确率始终保持接近，且最终测试准确率更高，说明其泛化能力更好。
 
 # 5 张错误分类样本及解释
-
+#若图片无法打开，请见outputs文件夹
 ![error_samples](outputs\error_samples.png)
-
+#若图片无法打开，请见outputs文件夹
 ## 错误样本分析
 
 ### 样本 1：`P:Sandal, T:Sneaker`
