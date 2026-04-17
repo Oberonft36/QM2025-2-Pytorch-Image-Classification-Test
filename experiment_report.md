@@ -58,11 +58,10 @@ BEST model !!! = 0.8913
 约为0.84
 
 #### 本实验loss和acc曲线：
-#若图片无法打开，请见outputs文件夹
 
-![loss_lr_change](outputs\loss_lr_change.png)
+![loss_lr_change](https://github.com/Oberonft36/QM2025-2-Pytorch-Image-Classification-Test/blob/main/outputs/loss_lr_change.png?raw=true)
 
-![acc_lr_change](outputs\acc_lr_change.png)
+![acc_lr_change](https://github.com/Oberonft36/QM2025-2-Pytorch-Image-Classification-Test/blob/main/outputs/acc_lr_change.png?raw=true)
 
 #若图片无法打开，请见outputs文件夹
 #### 实验分析：
@@ -97,10 +96,11 @@ BEST model !!! = 0.8913
 约为0.8696
 
 #### 本实验loss和acc曲线：
-#若图片无法打开，请见outputs文件夹
-![loss_batch_change](outputs\loss_batch_change.png)
 
-![acc_batch_change](outputs\acc_batch_change.png)
+![loss_batch_change](https://github.com/Oberonft36/QM2025-2-Pytorch-Image-Classification-Test/blob/main/outputs/loss_batch_change.png?raw=true)
+
+![acc_batch_change](https://github.com/Oberonft36/QM2025-2-Pytorch-Image-Classification-Test/blob/main/outputs/acc_batch_change.png?raw=true)
+)
 #若图片无法打开，请见outputs文件夹
 #### 实验分析：
 
